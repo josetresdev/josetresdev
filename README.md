@@ -142,38 +142,65 @@ Trabajo con enfoque en resultados, interés continuo por la innovación y afinid
 
 ### 🛠️ Tech Stack Visual
 
-#### 💻 Lenguajes
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 1rem;">
+  <!-- Lenguajes -->
+  <div style="min-width: 200px;">
+    <h4>💻 Lenguajes</h4>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+    </div>
+  </div>
 
-#### ⚙️ Frameworks y Librerías
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white)  
+  <!-- Frameworks y Librerías -->
+  <div style="min-width: 280px;">
+    <h4>⚙️ Frameworks y Librerías</h4>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
+      <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />
+      <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot" />
+    </div>
+  </div>
 
-#### 🗄️ Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+  <!-- Bases de Datos -->
+  <div style="min-width: 180px;">
+    <h4>🗄️ Bases de Datos</h4>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </div>
+  </div>
 
-#### 🛠️ DevOps y Herramientas
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)  
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)  
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)  
+  <!-- DevOps y Herramientas -->
+  <div style="min-width: 220px;">
+    <h4>🛠️ DevOps y Herramientas</h4>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white" alt="Debian" />
+      <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown" />
+      <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion" />
+    </div>
+  </div>
 
-#### ☁️ Plataformas en la Nube
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)  
-![OCI](https://img.shields.io/badge/-Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white)  
+  <!-- Plataformas en la Nube -->
+  <div style="min-width: 180px;">
+    <h4>☁️ Plataformas en la Nube</h4>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+      <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+      <img src="https://img.shields.io/badge/-Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white" alt="OCI" />
+    </div>
+  </div>
+</div>
 
 ---
 
