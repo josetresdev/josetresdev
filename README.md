@@ -15,44 +15,77 @@
 
 <h2 align="center">Tecnologías</h2>
 
-<p align="center">
-🚀&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" height="24" style="vertical-align:middle;"> Node.js &nbsp;|&nbsp;
-
-<img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="24" height="24" style="vertical-align:middle;"> NestJS &nbsp;|&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="24" height="24" style="vertical-align:middle;"> Vue.js &nbsp;|&nbsp;
-
-<img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="24" height="24" style="vertical-align:middle;"> Laravel &nbsp;|&nbsp;
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="24" height="24" style="vertical-align:middle;"> AWS &nbsp;|&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="24" height="24" style="vertical-align:middle;"> PostgreSQL / 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="24" height="24" style="vertical-align:middle;"> MongoDB &nbsp;|&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="24" height="24" style="vertical-align:middle;"> Docker &nbsp;|&nbsp;
-
-⚙️ DevOps &nbsp;|&nbsp; 
-
-<img src="https://cdn-icons-png.flaticon.com/24/2921/2921222.png" alt="Agile" width="24" height="24" style="vertical-align:middle;"> Agile
+<p align="center" style="display: inline-flex; flex-wrap: wrap; justify-content: center; gap: 16px; font-weight: 600; font-size: 1rem; align-items: center;">
+  🚀&nbsp;
+  <span style="display: inline-flex; align-items: center; gap: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" height="24" />
+    Node.js
+  </span>
+  <span>|</span>
+  <span style="display: inline-flex; align-items: center; gap: 6px;">
+    <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="24" height="24" />
+    NestJS
+  </span>
+  <span>|</span>
+  <span style="display: inline-flex; align-items: center; gap: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="24" height="24" />
+    Vue.js
+  </span>
+  <span>|</span>
+  <span style="display: inline-flex; align-items: center; gap: 6px;">
+    <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="24" height="24" />
+    Laravel
+  </span>
+  <span>|</span>
+  <span style="display: inline-flex; align-items: center; gap: 6px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="24" height="24" />
+    AWS
+  </span>
+  <span>|</span>
+  <span style="display: inline-flex; align-items: center; gap: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="24" height="24" />
+    PostgreSQL /
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="24" height="24" style="margin-left:6px;" />
+    MongoDB
+  </span>
+  <span>|</span>
+  <span style="display: inline-flex; align-items: center; gap: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="24" height="24" />
+    Docker
+  </span>
+  <span>|</span>
+  <span style="display: inline-flex; align-items: center; gap: 6px;">
+    ⚙️ DevOps
+  </span>
+  <span>|</span>
+  <span style="display: inline-flex; align-items: center; gap: 6px;">
+    <img src="https://cdn-icons-png.flaticon.com/24/2921/2921222.png" alt="Agile" width="24" height="24" />
+    Agile
+  </span>
 </p>
 
-<h2 align="center">Contacto</h2>
+<h2 align="center" style="margin-top: 2rem;">Contacto & Redes</h2>
 
-<p align="center">
-<a href="https://josetrespalaciosbedoya.co" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit; margin: 0 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Website" width="20" height="20" style="vertical-align:middle;"> Website
-</a> &nbsp;|&nbsp;
-<a href="https://www.linkedin.com/in/josetrespalaciosb" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit; margin: 0 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" style="vertical-align:middle;"> LinkedIn
-</a> &nbsp;|&nbsp;
-<a href="https://github.com/josetrespalacios" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit; margin: 0 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Main" width="20" height="20" style="vertical-align:middle;"> Main GitHub
-</a> &nbsp;|&nbsp;
-<a href="https://github.com/josetrespalaciosbedoya" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit; margin: 0 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Alternate" width="20" height="20" style="vertical-align:middle;"> Alternate GitHub
-</a>
+<p align="center" style="display: inline-flex; flex-wrap: wrap; justify-content: center; gap: 24px; font-weight: 600; font-size: 1rem; align-items: center;">
+  <a href="https://josetrespalaciosbedoya.co" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit; display: inline-flex; align-items: center; gap: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Website" width="20" height="20" />
+    Website
+  </a>
+  <span>|</span>
+  <a href="https://www.linkedin.com/in/josetrespalaciosb" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit; display: inline-flex; align-items: center; gap: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" />
+    LinkedIn
+  </a>
+  <span>|</span>
+  <a href="https://github.com/josetrespalacios" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit; display: inline-flex; align-items: center; gap: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Main" width="20" height="20" />
+    Main GitHub
+  </a>
+  <span>|</span>
+  <a href="https://github.com/josetrespalaciosbedoya" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit; display: inline-flex; align-items: center; gap: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Alternate" width="20" height="20" />
+    Alternate GitHub
+  </a>
 </p>
 
 ---
