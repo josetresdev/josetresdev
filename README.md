@@ -17,11 +17,11 @@
   Skilled in backend and frontend technologies, cloud infrastructure, and DevOps practices.
 </p>
 
-<p align="center">
-  🌐 <a href="https://josetrespalaciosbedoya.co" target="_blank"><strong>Portafolio Web</strong></a> &nbsp;|&nbsp;
-  💼 <a href="https://www.linkedin.com/in/josetrespalaciosb" target="_blank"><strong>LinkedIn</strong></a> &nbsp;|&nbsp;
-  💻 <a href="https://github.com/josetrespalacios" target="_blank"><strong>GitHub Principal</strong></a> &nbsp;|&nbsp;
-  📂 <a href="https://github.com/josetrespalaciosbedoya" target="_blank"><strong>GitHub Alterno</strong></a>
+<p align="center" style="font-weight: 600; font-size: 1rem;">
+  🌐 <a href="https://josetrespalaciosbedoya.co" target="_blank" rel="noopener noreferrer"><strong>Portfolio Website</strong></a> &nbsp;|&nbsp;
+  💼 <a href="https://www.linkedin.com/in/josetrespalaciosb" target="_blank" rel="noopener noreferrer"><strong>LinkedIn Profile</strong></a> &nbsp;|&nbsp;
+  💻 <a href="https://github.com/josetrespalacios" target="_blank" rel="noopener noreferrer"><strong>Main GitHub</strong></a> &nbsp;|&nbsp;
+  📂 <a href="https://github.com/josetrespalaciosbedoya" target="_blank" rel="noopener noreferrer"><strong>Alternate GitHub</strong></a>
 </p>
 
 ---
