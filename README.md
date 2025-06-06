@@ -12,28 +12,28 @@
   🚀&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
   <strong>Node.js</strong> &nbsp;|&nbsp;
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
+
+  <img src="https://raw.githubusercontent.com/nestjs/nest/master/logo/logo.svg" alt="NestJS" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
   <strong>NestJS</strong> &nbsp;|&nbsp;
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
   <strong>Vue.js</strong> &nbsp;|&nbsp;
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
   <strong>Laravel</strong> &nbsp;|&nbsp;
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain.svg" alt="AWS" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
   <strong>AWS</strong> &nbsp;|&nbsp;
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
   <strong>PostgreSQL</strong> /&nbsp;
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
   <strong>MongoDB</strong> &nbsp;|&nbsp;
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
   <strong>Docker</strong> &nbsp;|&nbsp;
-  
+
   ⚙️ <strong>DevOps</strong> &nbsp;|&nbsp;
   🔄 <strong>Agile</strong>
 </p>
