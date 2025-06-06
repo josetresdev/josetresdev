@@ -1,4 +1,9 @@
-<h1 align="center">👨🏽‍💻 Jose Trespalacios Bedoya</h1>
+<h1 align="center">Jose Trespalacios Bedoya</h1>
+
+<p align="center">
+  Passionate Full Stack Developer and Software Engineer focused on building scalable, modular solutions that drive business growth.  
+  Skilled in backend and frontend technologies, cloud infrastructure, and DevOps practices.
+</p>
 
 <div align="center">
 
@@ -13,17 +18,27 @@
 <p align="center">
 🚀&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" height="24" style="vertical-align:middle;"> Node.js &nbsp;|&nbsp;
+
 <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="24" height="24" style="vertical-align:middle;"> NestJS &nbsp;|&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="24" height="24" style="vertical-align:middle;"> Vue.js &nbsp;|&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="24" height="24" style="vertical-align:middle;"> Laravel &nbsp;|&nbsp;
+
+<img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="24" height="24" style="vertical-align:middle;"> Laravel &nbsp;|&nbsp;
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="24" height="24" style="vertical-align:middle;"> AWS &nbsp;|&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="24" height="24" style="vertical-align:middle;"> PostgreSQL / 
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="24" height="24" style="vertical-align:middle;"> MongoDB &nbsp;|&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="24" height="24" style="vertical-align:middle;"> Docker &nbsp;|&nbsp;
-⚙️ DevOps &nbsp;|&nbsp; 🔄 Agile
+
+⚙️ DevOps &nbsp;|&nbsp; 
+
+<img src="https://cdn-icons-png.flaticon.com/24/2921/2921222.png" alt="Agile" width="24" height="24" style="vertical-align:middle;"> Agile
 </p>
 
-<h2 align="center">Contacto & Redes</h2>
+<h2 align="center">Contacto</h2>
 
 <p align="center">
 <a href="https://josetrespalaciosbedoya.co" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit; margin: 0 12px;">
@@ -48,11 +63,6 @@ Soy **Desarrollador Full Stack** con una sólida base técnica y visión de prod
 
 ✨ Me apasiona construir soluciones modulares, escalables y sostenibles, aplicando principios de **Clean Code**, **Patrones de diseño** y **Metodologías ágiles**.  
 Trabajo con enfoque en resultados, interés continuo por la innovación y afinidad con tecnologías emergentes.
-
-<p align="center">
-  Passionate Full Stack Developer and Software Engineer focused on building scalable, modular solutions that drive business growth.  
-  Skilled in backend and frontend technologies, cloud infrastructure, and DevOps practices.
-</p>
 
 ---
 
