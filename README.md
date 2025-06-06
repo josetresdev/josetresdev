@@ -49,31 +49,35 @@
   Skilled in backend and frontend technologies, cloud infrastructure, and DevOps practices.
 </p>
 
-<p align="center" style="font-weight: 600; font-size: 1rem;">
-  🌐 
-  <a href="https://josetrespalaciosbedoya.co" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Website" width="20" height="20" style="vertical-align: middle; margin-right: 6px;">
-    <strong>Website</strong>
-  </a> &nbsp;|&nbsp;
+<div style="text-align: center; font-weight: 600; font-size: 1rem; line-height: 1.5;">
+  <span style="display: inline-flex; align-items: center; gap: 6px; margin-right: 16px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Website" width="20" height="20" style="vertical-align: middle;">
+    <a href="https://josetrespalaciosbedoya.co" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+      <strong>Website</strong>
+    </a>
+  </span> |
 
-  💼 
-  <a href="https://www.linkedin.com/in/josetrespalaciosb" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" style="vertical-align: middle; margin-right: 6px;">
-    <strong>LinkedIn</strong>
-  </a> &nbsp;|&nbsp;
+  <span style="display: inline-flex; align-items: center; gap: 6px; margin: 0 16px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;">
+    <a href="https://www.linkedin.com/in/josetrespalaciosb" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+      <strong>LinkedIn</strong>
+    </a>
+  </span> |
 
-  💻 
-  <a href="https://github.com/josetrespalacios" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20" style="vertical-align: middle; margin-right: 6px;">
-    <strong>Main GitHub</strong>
-  </a> &nbsp;|&nbsp;
+  <span style="display: inline-flex; align-items: center; gap: 6px; margin: 0 16px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Main" width="20" height="20" style="vertical-align: middle;">
+    <a href="https://github.com/josetrespalacios" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+      <strong>Main GitHub</strong>
+    </a>
+  </span> |
 
-  📂 
-  <a href="https://github.com/josetrespalaciosbedoya" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Alternate" width="20" height="20" style="vertical-align: middle; margin-right: 6px;">
-    <strong>Alternate GitHub</strong>
-  </a>
-</p>
+  <span style="display: inline-flex; align-items: center; gap: 6px; margin-left: 16px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Alternate" width="20" height="20" style="vertical-align: middle;">
+    <a href="https://github.com/josetrespalaciosbedoya" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+      <strong>Alternate GitHub</strong>
+    </a>
+  </span>
+</div>
 
 ---
 
