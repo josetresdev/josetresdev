@@ -1,11 +1,11 @@
-<h1 align="center">👨‍💻 Jose Trespalacios</h1>
+<h1 align="center">👨🏽‍💻 Jose Trespalacios Bedoya</h1>
 
 <h3 align="center">
   🚀 Desarrollador Full Stack • 🧠 Ingeniero de Software • 🛠️ Arquitectura Modular
 </h3>
 
 <p align="center">
-  💡 Node.js • NestJS • Vue.js • Laravel • AWS • PostgreSQL/MongoDB • Docker • DevOps • Agile
+  🚀 <strong>Node.js</strong> &nbsp;|&nbsp; <strong>NestJS</strong> &nbsp;|&nbsp; <strong>Vue.js</strong> &nbsp;|&nbsp; <strong>Laravel</strong> &nbsp;|&nbsp; <strong>AWS</strong> &nbsp;|&nbsp; <strong>PostgreSQL / MongoDB</strong> &nbsp;|&nbsp; <strong>Docker</strong> &nbsp;|&nbsp; <strong>DevOps</strong> &nbsp;|&nbsp; <strong>Agile</strong>
 </p>
 
 <p align="center">
