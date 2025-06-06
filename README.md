@@ -1,12 +1,12 @@
 <h1 align="center">👨🏽‍💻 Jose Trespalacios Bedoya</h1>
 
 <h3 align="center">
-  🚀 Desarrollador Full Stack<br />
-  <sub><sup><kbd>Full Stack Developer</kbd></sup></sub> •  
-  🧠 Ingeniero de Software<br />
-  <sub><sup><kbd>Software Engineer</kbd></sup></sub> •  
-  🛠️ Arquitectura Modular<br />
-  <sub><sup><kbd>Modular Architecture</kbd></sup></sub>
+  🚀 <strong>Desarrollador Full Stack</strong><br />
+  <sub><sup><kbd style="background:#0366d6; color:#fff; border-radius:4px; padding:2px 6px;">Full Stack Developer</kbd></sup></sub> &nbsp;&nbsp;&nbsp;
+  🧠 <strong>Ingeniero de Software</strong><br />
+  <sub><sup><kbd style="background:#28a745; color:#fff; border-radius:4px; padding:2px 6px;">Software Engineer</kbd></sup></sub> &nbsp;&nbsp;&nbsp;
+  🛠️ <strong>Arquitectura Modular</strong><br />
+  <sub><sup><kbd style="background:#d73a49; color:#fff; border-radius:4px; padding:2px 6px;">Modular Architecture</kbd></sup></sub>
 </h3>
 
 <p align="center">
