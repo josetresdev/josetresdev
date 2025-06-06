@@ -8,15 +8,16 @@
 
 </div>
 
-<!-- Tecnologías -->
-<div style="text-align: center; font-weight: 600; font-size: 1.1rem; line-height: 1.5; margin-bottom: 24px;">
+<!-- Sección Tecnologías -->
+<div style="text-align: center; font-weight: 600; font-size: 1.1rem; line-height: 1.5; margin-bottom: 40px;">
   🚀&nbsp;
   <span style="display: inline-flex; align-items: center; gap: 6px; margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="22" height="22" style="vertical-align: middle;">
     <strong>Node.js</strong>
   </span> |
   <span style="display: inline-flex; align-items: center; gap: 6px; margin: 0 12px;">
-    <img src="https://raw.githubusercontent.com/nestjs/nest/master/logo/logo.svg" alt="NestJS" width="22" height="22" style="vertical-align: middle;">
+    <!-- Logo NestJS alternativo para mejor visibilidad -->
+    <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="22" height="22" style="vertical-align: middle;">
     <strong>NestJS</strong>
   </span> |
   <span style="display: inline-flex; align-items: center; gap: 6px; margin: 0 12px;">
@@ -45,35 +46,39 @@
   🔄 <strong>Agile</strong>
 </div>
 
-<!-- Links sociales -->
-<div style="text-align: center; font-weight: 600; font-size: 1rem; line-height: 1.5;">
-  <span style="display: inline-flex; align-items: center; gap: 6px; margin-right: 16px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Website" width="20" height="20" style="vertical-align: middle;">
-    <a href="https://josetrespalaciosbedoya.co" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-      <strong>Website</strong>
-    </a>
-  </span> |
+<!-- Sección Contacto -->
+<div style="text-align: center; margin-top: 40px;">
+  <h3 style="font-weight: 700; font-size: 1.3rem; margin-bottom: 20px;">Contacto & Redes</h3>
+  
+  <div style="font-weight: 600; font-size: 1rem; line-height: 1.5; display: inline-block;">
+    <span style="display: inline-flex; align-items: center; gap: 6px; margin-right: 16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Website" width="20" height="20" style="vertical-align: middle;">
+      <a href="https://josetrespalaciosbedoya.co" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+        <strong>Website</strong>
+      </a>
+    </span> |
 
-  <span style="display: inline-flex; align-items: center; gap: 6px; margin: 0 16px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;">
-    <a href="https://www.linkedin.com/in/josetrespalaciosb" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-      <strong>LinkedIn</strong>
-    </a>
-  </span> |
+    <span style="display: inline-flex; align-items: center; gap: 6px; margin: 0 16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;">
+      <a href="https://www.linkedin.com/in/josetrespalaciosb" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+        <strong>LinkedIn</strong>
+      </a>
+    </span> |
 
-  <span style="display: inline-flex; align-items: center; gap: 6px; margin: 0 16px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Main" width="20" height="20" style="vertical-align: middle;">
-    <a href="https://github.com/josetrespalacios" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-      <strong>Main GitHub</strong>
-    </a>
-  </span> |
+    <span style="display: inline-flex; align-items: center; gap: 6px; margin: 0 16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Main" width="20" height="20" style="vertical-align: middle;">
+      <a href="https://github.com/josetrespalacios" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+        <strong>Main GitHub</strong>
+      </a>
+    </span> |
 
-  <span style="display: inline-flex; align-items: center; gap: 6px; margin-left: 16px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Alternate" width="20" height="20" style="vertical-align: middle;">
-    <a href="https://github.com/josetrespalaciosbedoya" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-      <strong>Alternate GitHub</strong>
-    </a>
-  </span>
+    <span style="display: inline-flex; align-items: center; gap: 6px; margin-left: 16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Alternate" width="20" height="20" style="vertical-align: middle;">
+      <a href="https://github.com/josetrespalaciosbedoya" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+        <strong>Alternate GitHub</strong>
+      </a>
+    </span>
+  </div>
 </div>
 
 ---
