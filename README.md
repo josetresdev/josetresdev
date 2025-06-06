@@ -8,7 +8,8 @@
 
 </div>
 
-<div style="text-align: center; font-weight: 600; font-size: 1.1rem; line-height: 1.5;">
+<!-- Tecnologías -->
+<div style="text-align: center; font-weight: 600; font-size: 1.1rem; line-height: 1.5; margin-bottom: 24px;">
   🚀&nbsp;
   <span style="display: inline-flex; align-items: center; gap: 6px; margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="22" height="22" style="vertical-align: middle;">
@@ -44,6 +45,7 @@
   🔄 <strong>Agile</strong>
 </div>
 
+<!-- Links sociales -->
 <div style="text-align: center; font-weight: 600; font-size: 1rem; line-height: 1.5;">
   <span style="display: inline-flex; align-items: center; gap: 6px; margin-right: 16px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Website" width="20" height="20" style="vertical-align: middle;">
