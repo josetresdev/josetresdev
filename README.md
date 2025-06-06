@@ -8,8 +8,19 @@
 
 </div>
 
-<p align="center">
-  🚀 <strong>Node.js</strong> &nbsp;|&nbsp; <strong>NestJS</strong> &nbsp;|&nbsp; <strong>Vue.js</strong> &nbsp;|&nbsp; <strong>Laravel</strong> &nbsp;|&nbsp; <strong>AWS</strong> &nbsp;|&nbsp; <strong>PostgreSQL / MongoDB</strong> &nbsp;|&nbsp; <strong>Docker</strong> &nbsp;|&nbsp; <strong>DevOps</strong> &nbsp;|&nbsp; <strong>Agile</strong>
+<p align="center" style="font-weight: 600; font-size: 1.1rem;">
+  🚀&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20" style="vertical-align: middle;"> <strong>Node.js</strong> &nbsp;|&nbsp;
+  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="20" height="20" style="vertical-align: middle;"> <strong>NestJS</strong> &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="20" height="20" style="vertical-align: middle;"> <strong>Vue.js</strong> &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="20" height="20" style="vertical-align: middle;"> <strong>Laravel</strong> &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="20" height="20" style="vertical-align: middle;"> <strong>AWS</strong> &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20" style="vertical-align: middle;"> 
+  <strong>PostgreSQL</strong> / 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20" height="20" style="vertical-align: middle;"> <strong>MongoDB</strong> &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="20" height="20" style="vertical-align: middle;"> <strong>Docker</strong> &nbsp;|&nbsp;
+  ⚙️ <strong>DevOps</strong> &nbsp;|&nbsp;
+  🔄 <strong>Agile</strong>
 </p>
 
 <p align="center">
@@ -18,10 +29,29 @@
 </p>
 
 <p align="center" style="font-weight: 600; font-size: 1rem;">
-  🌐 <a href="https://josetrespalaciosbedoya.co" target="_blank" rel="noopener noreferrer"><strong>Portfolio Website</strong></a> &nbsp;|&nbsp;
-  💼 <a href="https://www.linkedin.com/in/josetrespalaciosb" target="_blank" rel="noopener noreferrer"><strong>LinkedIn Profile</strong></a> &nbsp;|&nbsp;
-  💻 <a href="https://github.com/josetrespalacios" target="_blank" rel="noopener noreferrer"><strong>Main GitHub</strong></a> &nbsp;|&nbsp;
-  📂 <a href="https://github.com/josetrespalaciosbedoya" target="_blank" rel="noopener noreferrer"><strong>Alternate GitHub</strong></a>
+  🌐 
+  <a href="https://josetrespalaciosbedoya.co" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Website" width="20" height="20" style="vertical-align: middle; margin-right: 6px;">
+    <strong>Website</strong>
+  </a> &nbsp;|&nbsp;
+
+  💼 
+  <a href="https://www.linkedin.com/in/josetrespalaciosb" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" style="vertical-align: middle; margin-right: 6px;">
+    <strong>LinkedIn</strong>
+  </a> &nbsp;|&nbsp;
+
+  💻 
+  <a href="https://github.com/josetrespalacios" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20" style="vertical-align: middle; margin-right: 6px;">
+    <strong>Main GitHub</strong>
+  </a> &nbsp;|&nbsp;
+
+  📂 
+  <a href="https://github.com/josetrespalaciosbedoya" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Alternate" width="20" height="20" style="vertical-align: middle; margin-right: 6px;">
+    <strong>Alternate GitHub</strong>
+  </a>
 </p>
 
 ---
