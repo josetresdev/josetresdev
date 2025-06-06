@@ -7,21 +7,22 @@
 | <kbd style="background:#0366d6; color:#fff; border-radius:4px; padding:3px 8px;">Full Stack Developer</kbd> | <kbd style="background:#28a745; color:#fff; border-radius:4px; padding:3px 8px;">Software Engineer</kbd> | <kbd style="background:#d73a49; color:#fff; border-radius:4px; padding:3px 8px;">Modular Architecture</kbd> |
 
 </div>
+
 <p align="center" style="font-weight: 600; font-size: 1.1rem; line-height: 1.5;">
   🚀&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
   <strong>Node.js</strong> &nbsp;|&nbsp;
   
-  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
   <strong>NestJS</strong> &nbsp;|&nbsp;
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
   <strong>Vue.js</strong> &nbsp;|&nbsp;
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
   <strong>Laravel</strong> &nbsp;|&nbsp;
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain.svg" alt="AWS" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
   <strong>AWS</strong> &nbsp;|&nbsp;
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
