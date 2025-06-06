@@ -8,7 +8,7 @@
 
 </div>
 
-<p align="center" style="font-weight: 600; font-size: 1.1rem; line-height: 1.5;">
+<div style="display: flex; justify-content: center; align-items: center; font-weight: 600; font-size: 1.1rem; line-height: 1.5; text-align: center; flex-wrap: wrap; gap: 8px;">
   🚀&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
   <strong>Node.js</strong> &nbsp;|&nbsp;
@@ -36,7 +36,7 @@
 
   ⚙️ <strong>DevOps</strong> &nbsp;|&nbsp;
   🔄 <strong>Agile</strong>
-</p>
+</div>
 
 <p align="center">
   Passionate Full Stack Developer and Software Engineer focused on building scalable, modular solutions that drive business growth.  
