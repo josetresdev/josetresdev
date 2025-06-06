@@ -50,29 +50,29 @@
   <h3 style="font-weight: 700; font-size: 1.3rem; margin-bottom: 20px;">Contacto & Redes</h3>
   <div style="font-weight: 600; font-size: 1rem; line-height: 1.5; display: inline-block;">
     <span style="display: inline-flex; align-items: center; gap: 6px; margin-right: 16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Website" width="20" height="20" style="vertical-align: middle;">
-      <a href="https://josetrespalaciosbedoya.co" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+      <a href="https://josetrespalaciosbedoya.co" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 6px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Website" width="20" height="20" style="vertical-align: middle;">
         <strong>Website</strong>
       </a>
     </span> |
 
     <span style="display: inline-flex; align-items: center; gap: 6px; margin: 0 16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;">
-      <a href="https://www.linkedin.com/in/josetrespalaciosb" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+      <a href="https://www.linkedin.com/in/josetrespalaciosb" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 6px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;">
         <strong>LinkedIn</strong>
       </a>
     </span> |
 
     <span style="display: inline-flex; align-items: center; gap: 6px; margin: 0 16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Main" width="20" height="20" style="vertical-align: middle;">
-      <a href="https://github.com/josetrespalacios" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+      <a href="https://github.com/josetrespalacios" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 6px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Main" width="20" height="20" style="vertical-align: middle;">
         <strong>Main GitHub</strong>
       </a>
     </span> |
 
     <span style="display: inline-flex; align-items: center; gap: 6px; margin-left: 16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Alternate" width="20" height="20" style="vertical-align: middle;">
-      <a href="https://github.com/josetrespalaciosbedoya" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+      <a href="https://github.com/josetrespalaciosbedoya" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 6px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Alternate" width="20" height="20" style="vertical-align: middle;">
         <strong>Alternate GitHub</strong>
       </a>
     </span>
