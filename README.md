@@ -16,8 +16,7 @@
     <strong>Node.js</strong>
   </span> |
   <span style="display: inline-flex; align-items: center; gap: 6px; margin: 0 12px;">
-    <!-- Logo NestJS alternativo para mejor visibilidad -->
-    <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="22" height="22" style="vertical-align: middle;">
+    <img src="https://raw.githubusercontent.com/nestjs/nest-logo/master/logo.svg" alt="NestJS" width="22" height="22" style="vertical-align: middle;">
     <strong>NestJS</strong>
   </span> |
   <span style="display: inline-flex; align-items: center; gap: 6px; margin: 0 12px;">
@@ -49,7 +48,6 @@
 <!-- Sección Contacto -->
 <div style="text-align: center; margin-top: 40px;">
   <h3 style="font-weight: 700; font-size: 1.3rem; margin-bottom: 20px;">Contacto & Redes</h3>
-  
   <div style="font-weight: 600; font-size: 1rem; line-height: 1.5; display: inline-block;">
     <span style="display: inline-flex; align-items: center; gap: 6px; margin-right: 16px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Website" width="20" height="20" style="vertical-align: middle;">
