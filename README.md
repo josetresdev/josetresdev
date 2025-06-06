@@ -1,14 +1,18 @@
-<h1 align="center">👋 Hola, soy Jose Trespalacios</h1>
+<h1 align="center">👨‍💻 Jose Trespalacios</h1>
+
 <h3 align="center">
-  Desarrollador Full Stack • Ingeniero de Software <br />
-  Node.js • Vue.js • AWS • SQL/NoSQL • DevOps
+  🚀 Desarrollador Full Stack • 🧠 Ingeniero de Software • 🛠️ Arquitectura Modular
 </h3>
 
 <p align="center">
-  <a href="https://josetrespalaciosbedoya.co" target="_blank">🌐 Sitio Web</a> •
-  <a href="https://www.linkedin.com/in/josetrespalaciosb" target="_blank">💼 LinkedIn</a> •
-  <a href="https://github.com/josetrespalacios" target="_blank">💻 GitHub</a> •
-  <a href="https://github.com/josetrespalaciosbedoya" target="_blank">📁 GitHub Alterno</a>
+  💡 Node.js • NestJS • Vue.js • Laravel • AWS • PostgreSQL/MongoDB • Docker • DevOps • Agile
+</p>
+
+<p align="center">
+  🌐 <a href="https://josetrespalaciosbedoya.co" target="_blank"><strong>Portafolio Web</strong></a> &nbsp;|&nbsp;
+  💼 <a href="https://www.linkedin.com/in/josetrespalaciosb" target="_blank"><strong>LinkedIn</strong></a> &nbsp;|&nbsp;
+  💻 <a href="https://github.com/josetrespalacios" target="_blank"><strong>GitHub Principal</strong></a> &nbsp;|&nbsp;
+  📂 <a href="https://github.com/josetrespalaciosbedoya" target="_blank"><strong>GitHub Alterno</strong></a>
 </p>
 
 ---
