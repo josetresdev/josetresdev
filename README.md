@@ -1,8 +1,12 @@
 <h1 align="center">👨🏽‍💻 Jose Trespalacios Bedoya</h1>
 
-| <div align="center">🚀 Desarrollador Full Stack</div> | <div align="center">🧠 Ingeniero de Software</div> | <div align="center">🛠️ Arquitectura Modular</div> |
-|:-----------------------------------------------------:|:-------------------------------------------------:|:---------------------------------------------------:|
-| <div align="center"><kbd style="background:#0366d6; color:#fff; border-radius:4px; padding:3px 8px;">Full Stack Developer</kbd></div> | <div align="center"><kbd style="background:#28a745; color:#fff; border-radius:4px; padding:3px 8px;">Software Engineer</kbd></div> | <div align="center"><kbd style="background:#d73a49; color:#fff; border-radius:4px; padding:3px 8px;">Modular Architecture</kbd></div> |
+<div align="center">
+
+| 🚀 Desarrollador Full Stack | 🧠 Ingeniero de Software | 🛠️ Arquitectura Modular |
+|:---------------------------:|:-----------------------:|:-----------------------:|
+| <kbd style="background:#0366d6; color:#fff; border-radius:4px; padding:3px 8px;">Full Stack Developer</kbd> | <kbd style="background:#28a745; color:#fff; border-radius:4px; padding:3px 8px;">Software Engineer</kbd> | <kbd style="background:#d73a49; color:#fff; border-radius:4px; padding:3px 8px;">Modular Architecture</kbd> |
+
+</div>
 
 <p align="center">
   🚀 <strong>Node.js</strong> &nbsp;|&nbsp; <strong>NestJS</strong> &nbsp;|&nbsp; <strong>Vue.js</strong> &nbsp;|&nbsp; <strong>Laravel</strong> &nbsp;|&nbsp; <strong>AWS</strong> &nbsp;|&nbsp; <strong>PostgreSQL / MongoDB</strong> &nbsp;|&nbsp; <strong>Docker</strong> &nbsp;|&nbsp; <strong>DevOps</strong> &nbsp;|&nbsp; <strong>Agile</strong>
