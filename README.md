@@ -44,11 +44,6 @@
   🔄 <strong>Agile</strong>
 </div>
 
-<p align="center">
-  Passionate Full Stack Developer and Software Engineer focused on building scalable, modular solutions that drive business growth.  
-  Skilled in backend and frontend technologies, cloud infrastructure, and DevOps practices.
-</p>
-
 <div style="text-align: center; font-weight: 600; font-size: 1rem; line-height: 1.5;">
   <span style="display: inline-flex; align-items: center; gap: 6px; margin-right: 16px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Website" width="20" height="20" style="vertical-align: middle;">
@@ -87,6 +82,11 @@ Soy **Desarrollador Full Stack** con una sólida base técnica y visión de prod
 
 ✨ Me apasiona construir soluciones modulares, escalables y sostenibles, aplicando principios de **Clean Code**, **Patrones de diseño** y **Metodologías ágiles**.  
 Trabajo con enfoque en resultados, interés continuo por la innovación y afinidad con tecnologías emergentes.
+
+<p align="center">
+  Passionate Full Stack Developer and Software Engineer focused on building scalable, modular solutions that drive business growth.  
+  Skilled in backend and frontend technologies, cloud infrastructure, and DevOps practices.
+</p>
 
 ---
 
