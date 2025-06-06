@@ -7,18 +7,32 @@
 | <kbd style="background:#0366d6; color:#fff; border-radius:4px; padding:3px 8px;">Full Stack Developer</kbd> | <kbd style="background:#28a745; color:#fff; border-radius:4px; padding:3px 8px;">Software Engineer</kbd> | <kbd style="background:#d73a49; color:#fff; border-radius:4px; padding:3px 8px;">Modular Architecture</kbd> |
 
 </div>
-
-<p align="center" style="font-weight: 600; font-size: 1.1rem;">
+<p align="center" style="font-weight: 600; font-size: 1.1rem; line-height: 1.5;">
   🚀&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20" style="vertical-align: middle;"> <strong>Node.js</strong> &nbsp;|&nbsp;
-  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="20" height="20" style="vertical-align: middle;"> <strong>NestJS</strong> &nbsp;|&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="20" height="20" style="vertical-align: middle;"> <strong>Vue.js</strong> &nbsp;|&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="20" height="20" style="vertical-align: middle;"> <strong>Laravel</strong> &nbsp;|&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="20" height="20" style="vertical-align: middle;"> <strong>AWS</strong> &nbsp;|&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20" style="vertical-align: middle;"> 
-  <strong>PostgreSQL</strong> / 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20" height="20" style="vertical-align: middle;"> <strong>MongoDB</strong> &nbsp;|&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="20" height="20" style="vertical-align: middle;"> <strong>Docker</strong> &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
+  <strong>Node.js</strong> &nbsp;|&nbsp;
+  
+  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
+  <strong>NestJS</strong> &nbsp;|&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
+  <strong>Vue.js</strong> &nbsp;|&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
+  <strong>Laravel</strong> &nbsp;|&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
+  <strong>AWS</strong> &nbsp;|&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
+  <strong>PostgreSQL</strong> /&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
+  <strong>MongoDB</strong> &nbsp;|&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
+  <strong>Docker</strong> &nbsp;|&nbsp;
+  
   ⚙️ <strong>DevOps</strong> &nbsp;|&nbsp;
   🔄 <strong>Agile</strong>
 </p>
