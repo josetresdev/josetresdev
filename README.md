@@ -8,36 +8,40 @@
 
 </div>
 
-<div style="text-align: center;">
-  <div style="display: inline-flex; justify-content: center; align-items: center; font-weight: 600; font-size: 1.1rem; line-height: 1.5; flex-wrap: wrap; gap: 8px;">
-    🚀&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
-    <strong>Node.js</strong> &nbsp;|&nbsp;
-
-    <img src="https://raw.githubusercontent.com/nestjs/nest/master/logo/logo.svg" alt="NestJS" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
-    <strong>NestJS</strong> &nbsp;|&nbsp;
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
-    <strong>Vue.js</strong> &nbsp;|&nbsp;
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
-    <strong>Laravel</strong> &nbsp;|&nbsp;
-
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
-    <strong>AWS</strong> &nbsp;|&nbsp;
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
-    <strong>PostgreSQL</strong> /&nbsp;
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
-    <strong>MongoDB</strong> &nbsp;|&nbsp;
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="22" height="22" style="vertical-align: middle; margin-right: 6px;">
-    <strong>Docker</strong> &nbsp;|&nbsp;
-
-    ⚙️ <strong>DevOps</strong> &nbsp;|&nbsp;
-    🔄 <strong>Agile</strong>
-  </div>
+<div style="text-align: center; font-weight: 600; font-size: 1.1rem; line-height: 1.5;">
+  🚀&nbsp;
+  <span style="display: inline-flex; align-items: center; gap: 6px; margin-right: 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="22" height="22" style="vertical-align: middle;">
+    <strong>Node.js</strong>
+  </span> |
+  <span style="display: inline-flex; align-items: center; gap: 6px; margin: 0 12px;">
+    <img src="https://raw.githubusercontent.com/nestjs/nest/master/logo/logo.svg" alt="NestJS" width="22" height="22" style="vertical-align: middle;">
+    <strong>NestJS</strong>
+  </span> |
+  <span style="display: inline-flex; align-items: center; gap: 6px; margin: 0 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="22" height="22" style="vertical-align: middle;">
+    <strong>Vue.js</strong>
+  </span> |
+  <span style="display: inline-flex; align-items: center; gap: 6px; margin: 0 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="22" height="22" style="vertical-align: middle;">
+    <strong>Laravel</strong>
+  </span> |
+  <span style="display: inline-flex; align-items: center; gap: 6px; margin: 0 12px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="22" height="22" style="vertical-align: middle;">
+    <strong>AWS</strong>
+  </span> |
+  <span style="display: inline-flex; align-items: center; gap: 6px; margin: 0 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="22" height="22" style="vertical-align: middle;">
+    <strong>PostgreSQL</strong> /
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="22" height="22" style="vertical-align: middle; margin-left:6px;">
+    <strong>MongoDB</strong>
+  </span> |
+  <span style="display: inline-flex; align-items: center; gap: 6px; margin: 0 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="22" height="22" style="vertical-align: middle;">
+    <strong>Docker</strong>
+  </span> |
+  ⚙️ <strong>DevOps</strong> &nbsp;|&nbsp;
+  🔄 <strong>Agile</strong>
 </div>
 
 <p align="center">
