@@ -15,9 +15,7 @@
 
 <h2 align="center">🛠️ Tecnologías</h2>
 
-<!-- Wrapper para centrar todo -->
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; font-size: 0;">
-
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
@@ -50,13 +48,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>
 
-  <!-- Nube -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle Cloud" alt="Oracle Cloud" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/D/digitalocean-logo-5F3B5F25AC-seeklogo.com.png" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/V/vultr-logo-204D3D93FB-seeklogo.com.png" title="Vultr" alt="Vultr" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/G/godaddy-logo-2021-FC2AD7E59F-seeklogo.com.png" title="GoDaddy" alt="GoDaddy" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/H/hostinger-logo-6A97D035E4-seeklogo.com.png" title="Hostinger" alt="Hostinger" width="40" height="40"/>
+  <!-- Cloud -->
+  <img src="https://i.imgur.com/Uz4F8K3.png" title="AWS" alt="AWS" width="40" height="40"/>
+  <img src="https://i.imgur.com/Ow6r04U.png" title="Oracle Cloud" alt="Oracle Cloud" width="40" height="40"/>
+  <img src="https://i.imgur.com/tCvlqC0.png" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>
+  <img src="https://i.imgur.com/JECvxtx.png" title="Vultr" alt="Vultr" width="40" height="40"/>
+  <img src="https://i.imgur.com/6jwl7lw.png" title="GoDaddy" alt="GoDaddy" width="40" height="40"/>
+  <img src="https://i.imgur.com/gvShD7l.png" title="Hostinger" alt="Hostinger" width="40" height="40"/>
 </p>
 
 <h2 align="center" style="margin-top: 2rem;">Contacto & Redes</h2>
