@@ -50,109 +50,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>
 
   <!-- Cloud -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="AWS" alt="AWS" width="40" height="40"/> <!-- visible en color -->
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" title="AWS" alt="AWS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="Oracle Cloud" alt="Oracle Cloud" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/digitalocean.svg" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/vultr.svg" title="Vultr" alt="Vultr" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/godaddy.svg" title="GoDaddy" alt="GoDaddy" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/hostinger.svg" title="Hostinger" alt="Hostinger" width="40" height="40"/>
 
-</p>
-
-  🚀&nbsp;
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" height="24" />
-    Node.js
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="24" height="24" />
-    NestJS
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="24" height="24" />
-    Vue.js
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="24" height="24" />
-    Laravel
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="24" height="24" />
-    AWS
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="24" height="24" />
-    PostgreSQL /
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="24" height="24" style="margin-left:6px;" />
-    MongoDB
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="24" height="24" />
-    Docker
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    ⚙️ DevOps
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://cdn-icons-png.flaticon.com/24/2921/2921222.png" alt="Agile" width="24" height="24" />
-    Agile
-  </span>
-</div>
-
-  🚀&nbsp;
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" height="24" />
-    Node.js
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="24" height="24" />
-    NestJS
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="24" height="24" />
-    Vue.js
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="24" height="24" />
-    Laravel
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="24" height="24" />
-    AWS
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="24" height="24" />
-    PostgreSQL /
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="24" height="24" style="margin-left:6px;" />
-    MongoDB
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="24" height="24" />
-    Docker
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    ⚙️ DevOps
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://cdn-icons-png.flaticon.com/24/2921/2921222.png" alt="Agile" width="24" height="24" />
-    Agile
-  </span>
 </p>
 
 <h2 align="center" style="margin-top: 2rem;">Contacto & Redes</h2>
