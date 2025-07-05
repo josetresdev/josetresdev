@@ -13,87 +13,9 @@
 
 </div>
 
-<h2 align="center">🛠️ Tecnologías</h2>
+<h2 align="center">Tecnologías</h2>
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"/>
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" title="NestJS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" title="Laravel" width="40" height="40"/>
-
-  <!-- Bases de datos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="40" height="40"/>
-
-  <!-- DevOps / Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/>
-</p>
-
-<!-- Texto con íconos centrado -->
-<div align="center">
-  🚀&nbsp;
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" height="24" />
-    Node.js
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="24" height="24" />
-    NestJS
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="24" height="24" />
-    Vue.js
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="24" height="24" />
-    Laravel
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="24" height="24" />
-    AWS
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="24" height="24" />
-    PostgreSQL /
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="24" height="24" style="margin-left:6px;" />
-    MongoDB
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="24" height="24" />
-    Docker
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    ⚙️ DevOps
-  </span>
-  <span>|</span>
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img src="https://cdn-icons-png.flaticon.com/24/2921/2921222.png" alt="Agile" width="24" height="24" />
-    Agile
-  </span>
-</div>
-
+<p align="center" style="display: inline-flex; flex-wrap: wrap; justify-content: center; gap: 16px; font-weight: 600; font-size: 1rem; align-items: center;">
   🚀&nbsp;
   <span style="display: inline-flex; align-items: center; gap: 6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" height="24" />
