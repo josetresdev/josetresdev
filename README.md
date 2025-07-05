@@ -24,7 +24,7 @@
 
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
-  <img src="https://nestjs.com/img/logo-small.svg" title="NestJS" alt="NestJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
-  <img src="https://laravel.com/img/logomark.min.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
 
   <!-- Bases de datos -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>
 
-  <!-- DevOps / Infraestructura -->
+  <!-- Infraestructura & SO -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
@@ -49,12 +49,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>
 
   <!-- Cloud -->
-  <img src="https://i.imgur.com/Uz4F8K3.png" title="AWS" alt="AWS" width="40" height="40"/>
-  <img src="https://i.imgur.com/Ow6r04U.png" title="Oracle Cloud" alt="Oracle Cloud" width="40" height="40"/>
-  <img src="https://i.imgur.com/tCvlqC0.png" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>
-  <img src="https://i.imgur.com/JECvxtx.png" title="Vultr" alt="Vultr" width="40" height="40"/>
-  <img src="https://i.imgur.com/6jwl7lw.png" title="GoDaddy" alt="GoDaddy" width="40" height="40"/>
-  <img src="https://i.imgur.com/gvShD7l.png" title="Hostinger" alt="Hostinger" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/amazonaws.svg" title="AWS" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/oracle.svg" title="Oracle Cloud" alt="Oracle Cloud" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/digitalocean.svg" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/vultr.svg" title="Vultr" alt="Vultr" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/godaddy.svg" title="GoDaddy" alt="GoDaddy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/hostinger.svg" title="Hostinger" alt="Hostinger" width="40" height="40"/>
 </p>
 
 <h2 align="center" style="margin-top: 2rem;">Contacto & Redes</h2>
