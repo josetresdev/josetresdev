@@ -16,6 +16,7 @@
 <h2 align="center">🛠️ Tecnologías</h2>
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; font-size: 0;">
+
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
@@ -26,10 +27,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/nestjs.svg" title="NestJS" alt="NestJS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/django.svg" title="Django" alt="Django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/fastapi.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/spring.svg" title="Spring" alt="Spring" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/php.svg" title="PHP" alt="PHP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/laravel.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
@@ -50,10 +51,12 @@
 
   <!-- Cloud -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/amazonaws.svg" title="AWS" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/oracle.svg" title="Oracle Cloud" alt="Oracle Cloud" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/digitalocean.svg" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/vultr.svg" title="Vultr" alt="Vultr" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/godaddy.svg" title="GoDaddy" alt="GoDaddy" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/hostinger.svg" title="Hostinger" alt="Hostinger" width="40" height="40"/>
+
 </p>
 
 <h2 align="center" style="margin-top: 2rem;">Contacto & Redes</h2>
