@@ -50,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>
 
   <!-- Cloud -->
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" title="AWS" alt="AWS" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="AWS" alt="AWS" width="40" height="40"/> <!-- visible en color -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="Oracle Cloud" alt="Oracle Cloud" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/digitalocean.svg" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/vultr.svg" title="Vultr" alt="Vultr" width="40" height="40"/>
