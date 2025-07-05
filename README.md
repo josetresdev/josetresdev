@@ -24,15 +24,15 @@
 
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/nestjs.svg" title="NestJS" alt="NestJS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/php.svg" title="PHP" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/laravel.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
 
   <!-- Bases de datos -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
@@ -50,7 +50,6 @@
 
   <!-- Cloud -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/amazonaws.svg" title="AWS" alt="AWS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/oracle.svg" title="Oracle Cloud" alt="Oracle Cloud" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/digitalocean.svg" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/vultr.svg" title="Vultr" alt="Vultr" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/godaddy.svg" title="GoDaddy" alt="GoDaddy" width="40" height="40"/>
