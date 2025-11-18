@@ -50,12 +50,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>
 
   <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/npm/aws-svg-icons@3.0.0-2021-07-30/lib/aws-cloud.svg" title="AWS" alt="AWS" width="40" height="40"/>
+  <svg width="40" height="40" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#FF9900" d="M256 0C114.84 0 0 114.84 0 256s114.84 256 256 256 256-114.84 256-256S397.16 0 256 0zm0 472c-119.104 0-216-96.896-216-216S136.896 40 256 40s216 96.896 216 216-96.896 216-216 216z"/>
+    <path fill="#232F3E" d="M174 336h164v-32H174v32zm0-64h164v-32H174v32zm0-64h164v-32H174v32z"/>
+  </svg>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="Oracle Cloud" alt="Oracle Cloud" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/digitalocean.svg" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/vultr.svg" title="Vultr" alt="Vultr" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/godaddy.svg" title="GoDaddy" alt="GoDaddy" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/hostinger.svg" title="Hostinger" alt="Hostinger" width="40" height="40"/>
+
 
 </p>
 
